@@ -1,24 +1,23 @@
 {
-	"name": "nuovo/spreadsheet-reader",
+	"name": "urumuqi/spreadsheet-reader",
 	"description": "Spreadsheet reader library for Excel, OpenOffice and structured text files",
 	"keywords": ["spreadsheet", "xls", "xlsx", "ods", "csv", "excel", "openoffice"],
-	"homepage": "https://github.com/nuovo/spreadsheet-reader",
-	"version": "0.5.11",
-	"time": "2015-04-30",
+	"homepage": "https://github.com/Urumuqi/spreadsheet-reader",
+	"version": "0.0.1",
+	"time": "2019-03-29",
 	"type": "library",
 	"license": ["MIT"],
 	"authors": [
 		{
-			"name": "Martins Pilsetnieks",
-			"email": "pilsetnieks@gmail.com",
-			"homepage": "http://www.nuovo.lv/"
+			"name": "urumuqi",
+			"email": "yuri1308960477@gmail.com"
 		}
 	],
 	"support": {
-		"email": "spreadsheet-reader@nuovo.lv"
+		"email": "yuri1308960477@gmail.com"
 	},
 	"require": {
-		"php": ">= 5.3.0",
+		"php": ">= 5.5.0",
 		"ext-zip": "*"
 	},
 	"autoload": {
